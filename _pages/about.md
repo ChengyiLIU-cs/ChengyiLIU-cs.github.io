@@ -20,6 +20,8 @@ Research Interests
 
 ### Diffusion model
 
+News
+======
 
 <!--
 A data-driven personal website
