@@ -16,9 +16,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Research Interests
 ======
-### Graph Neural Networks (GNNs)
+#### Graph Neural Networks (GNNs)
 
-### Diffusion model
+#### Diffusion model
 
 News
 ======
