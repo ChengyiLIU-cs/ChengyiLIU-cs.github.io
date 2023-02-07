@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chengyi LIU"
-  avatar           : "profile.png"
+  avatar           : "Chengyi_LIU.jpg" #"profile.png"
   bio              : "PhD in The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "chengyi.liu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/in/chengyi-liu-ba53a7226"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chengyi-liu-ba53a7226"
+  orcid            : "https://orcid.org/0000-0002-3463-3055"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
