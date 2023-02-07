@@ -22,7 +22,9 @@ Research Interests
 
 News
 ======
+#### 2023
 
+02/2023: The new preprint “Generative Diffusion Models on Graphs: Methods and Applications” is online.
 <!--
 A data-driven personal website
 ======
