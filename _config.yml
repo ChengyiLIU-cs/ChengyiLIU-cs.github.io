@@ -83,10 +83,10 @@ author:
   name             : "Chengyi LIU"
   avatar           : "Chengyi_LIU.jpg" #"profile.png"
   bio              : "PhD student in The Hong Kong Polytechnic University (PolyU)"
-  location         : "Hong Kong"
+  location         : "Hong Kong Special Administrative Region"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=iP1PjV4AAAAJ&hl=en&oi=sra"
   email            : "chengyi.liu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
