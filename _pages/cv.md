@@ -21,6 +21,7 @@ Skills
 * Python
   * Pytorch
 * Stata
+* Statistics
 
 <!--
 Publications
