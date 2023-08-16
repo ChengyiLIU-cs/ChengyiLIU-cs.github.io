@@ -85,7 +85,7 @@ author:
   bio              : "PhD student in The Hong Kong Polytechnic University (PolyU)"
   location         : "Hong Kong SAR."
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=iP1PjV4AAAAJ&hl=en&oi=sra"
   email            : "chengyi.liu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
