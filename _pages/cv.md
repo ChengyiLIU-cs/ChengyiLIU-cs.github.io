@@ -14,8 +14,6 @@ Education
 * B.S. in University of Nottingham Ningbo China, 2021
 * M.S. in University College London, 2022
 * Ph.D in the Hong Kong Polytechnic University, 2026 (expected)
-
-
   
 Skills
 ======
