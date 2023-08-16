@@ -6,7 +6,12 @@ excerpt: 'Survey'
 date: 2023-04
 venue: ''
 paperurl: '[arXiv version](https://arxiv.org/abs/2302.02591)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '@article{fan2023generative,
+            title={Generative diffusion models on graphs: Methods and applications},
+            author={Fan, Wenqi and Liu, Chengyi and Liu, Yunqing and Li, Jiatong and Li, Hang and Liu, Hui and Tang, Jiliang and Li, Qing},
+            journal={arXiv preprint arXiv:2302.02591},
+            year={2023}
+          }'
 ---
 Survey
 
