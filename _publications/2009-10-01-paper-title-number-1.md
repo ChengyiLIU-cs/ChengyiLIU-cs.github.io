@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Survey'
 date: 2023-04-01
 venue: ''
-paperurl: '[arXiv version](https://arxiv.org/abs/2302.02591)'
+paperurl: 'https://arxiv.org/abs/2302.02591'
 citation: ''
 ---
 
