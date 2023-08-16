@@ -24,6 +24,7 @@ News
 ======
 ### 2023
 
+04/2023: The survey paper [(“Generative Diffusion Models on Graphs: Methods and Applications”)](https://arxiv.org/abs/2302.02591) got accepted by IJCAI 2023.
 02/2023: The new preprint “Generative Diffusion Models on Graphs: Methods and Applications” is online.
 
 
