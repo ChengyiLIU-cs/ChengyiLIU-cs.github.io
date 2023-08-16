@@ -4,7 +4,7 @@ collection: The 32nd International Joint Conference on Artificial Intelligence (
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Survey'
 date: 2023-04
-venue: ''
+venue: 'This paper is about the number 1. The number 2 is left for future work.'
 paperurl: '[arXiv version](https://arxiv.org/abs/2302.02591)'
 citation: '@article{fan2023generative,
             title={Generative diffusion models on graphs: Methods and applications},
