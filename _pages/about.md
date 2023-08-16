@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Chengyi LIU is crrently a PhD student of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. Qing LI and Dr. Wenqi Fan (https://wenqifan03.github.io/). He received his Master degree in Health Data Science from the University College London (UCL) in 2022. From 2017 to 2021, he studied in the University of Nottingham Ningbo China (UNNC) to achieve the Bachelor of Science degree in Computer Science with Artificial Intelligence (in the first class).
+Chengyi LIU is crrently a PhD student of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU), under the supervision of Prof. Qing LI and [Dr. Wenqi Fan] (https://wenqifan03.github.io/). He received his Master degree in Health Data Science from the University College London (UCL) in 2022. From 2017 to 2021, he studied in the University of Nottingham Ningbo China (UNNC) to achieve the Bachelor of Science degree in Computer Science with Artificial Intelligence (in the first class).
 
 Email: chengyi.liu@connect.polyu.hk, liuchengyiaaa1@gmail.com
 <!--
