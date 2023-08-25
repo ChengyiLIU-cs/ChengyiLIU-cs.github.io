@@ -8,13 +8,9 @@ date: 2023-09-03
 location: "Hong Kong SAR"
 ---
 
-Position: Teaching Assistant
+Teaching Assistant
 
-Heading 1
+Course Info
 ======
 
-Heading 2
-======
 
-Heading 3
-======
