@@ -3,7 +3,7 @@ title: "DATA STRUCTURES"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "The Hong Kong Polytechnic University, Department"
+venue: "The Hong Kong Polytechnic University, Department of Computing"
 date: 2023-09-03
 location: "Hong Kong SAR"
 ---
@@ -12,6 +12,8 @@ Teaching Assistant
 
 Course Info
 ======
+
+|    |  |
 |  ----  | ----  |
 | Subject Code:| COMP2011       |
 | Instructor   | CAO Yixin      |
