@@ -8,7 +8,7 @@ date: 2023-09-03
 location: "Hong Kong SAR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Position: Teaching Assistant
 
 Heading 1
 ======
