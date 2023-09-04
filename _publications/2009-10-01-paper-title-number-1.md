@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Fan, W., Liu, C., Liu, Y., Li, J., Li, H., Liu, H., Tang, J. and Li, Q., 2023. Generative diffusion models on graphs: Methods and applications. arXiv preprint arXiv:2302.02591.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2302.02591)
+Download paper here: [arXiv](https://arxiv.org/abs/2302.02591), [IJCAI-23](https://www.ijcai.org/proceedings/2023/0751.pdf)
 
 For [github reference](https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs)
 
