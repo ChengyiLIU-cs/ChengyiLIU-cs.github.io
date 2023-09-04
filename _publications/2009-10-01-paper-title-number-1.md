@@ -11,5 +11,5 @@ citation: 'Fan, W., Liu, C., Liu, Y., Li, J., Li, H., Liu, H., Tang, J. and Li, 
 
 Download paper here: [arXiv](https://arxiv.org/abs/2302.02591), [IJCAI-23](https://www.ijcai.org/proceedings/2023/0751.pdf)
 
-For [github reference](https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs)
+[GitHub project reference](https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs)
 
