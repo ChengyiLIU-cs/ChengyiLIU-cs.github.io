@@ -13,3 +13,4 @@ Download paper here: [arXiv](https://arxiv.org/abs/2302.02591), [IJCAI-23](https
 
 [GitHub project reference](https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs)
 
+Poster: 2009-10-01-paper-title-number-1
