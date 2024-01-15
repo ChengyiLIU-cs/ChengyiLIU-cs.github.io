@@ -2,7 +2,7 @@
 title: "DATA STRUCTURES"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-1
 venue: "The Hong Kong Polytechnic University, Department of Computing"
 date: 2023-09-03
 location: "Hong Kong SAR"
