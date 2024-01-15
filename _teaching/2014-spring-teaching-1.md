@@ -15,5 +15,5 @@ Course Info
 
 * Subject Code:  COMP2011       
 * Instructor:    CAO Yixin      
-* Period:        2023/09 -      
+* Period:        2023/09 - 2023/12     
 
