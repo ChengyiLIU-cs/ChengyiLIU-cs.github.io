@@ -1,7 +1,7 @@
 ---
 title: "DATA STRUCTURES AND DATABASE SYSTEMS"
 collection: teaching
-type: "Undergraduate course"
+type: "Master course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "The Hong Kong Polytechnic University, Department of Computing"
 date: 2024-01-15
