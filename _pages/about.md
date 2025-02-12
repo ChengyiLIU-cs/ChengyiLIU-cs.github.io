@@ -25,6 +25,13 @@ Research Interests
 
 News
 ======
+### 2025
+01/2025: The new preprint (“[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568))”) is online.
+
+
+### 2024
+12/2024: The new preprint (“[Score-based Generative Diffusion Models for Social Recommendations](https://arxiv.org/abs/2412.15579))”) is online.
+
 ### 2023
 
 04/2023: The survey paper (“[Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591)”) got accepted by IJCAI 2023.
