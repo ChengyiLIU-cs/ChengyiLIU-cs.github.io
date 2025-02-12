@@ -15,5 +15,5 @@ Course Info
 
 * Subject Code:  COMP5112_20232_A       
 * Instructor:    HUA Wen    
-* Period:        2024/01 - now    
+* Period:        2024/01 - 2024/05
 
