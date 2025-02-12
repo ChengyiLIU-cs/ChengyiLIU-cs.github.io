@@ -24,7 +24,7 @@ Skills
 
 Awards
 ======
-* (“[KDD Excellent Reviewer](https://kdd2025.kdd.org/research-track-program-committee/))”), 2025
+* [KDD Excellent Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), 2025
 
 
 <!--
