@@ -22,6 +22,10 @@ Skills
   * Pytorch
 * Stata
 
+Awards
+======
+* KDD Excellent Reviewer, 2025
+
 
 <!--
 Publications
