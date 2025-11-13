@@ -26,7 +26,9 @@ Research Interests
 News
 ======
 ### 2025
-01/2025: The new preprint (“[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568)”) is online.
+08/2025: The paper (“[Score-based Generative Diffusion Models for Social Recommendations](https://arxiv.org/abs/2412.15579)”) got accepted by IEEE Transactions on Knowledge and Data Engineering.
+
+01/2025: The new preprint (“[Graph Defense Diffusion Model]([https://arxiv.org/abs/2501.11568](https://ieeexplore.ieee.org/document/11129906))”) is online.
 
 
 ### 2024
