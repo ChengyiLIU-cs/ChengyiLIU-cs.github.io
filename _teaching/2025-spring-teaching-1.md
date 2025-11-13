@@ -16,4 +16,3 @@ Course Info
 * Subject Code:  COMP3512_20242_A
 * Instructor:    LAI Kim Hung
 * Period:        2025/01 - 2025/06
-* 
