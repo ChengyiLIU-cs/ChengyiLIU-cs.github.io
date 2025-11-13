@@ -26,6 +26,9 @@ Awards
 ======
 * [KDD Excellent Reviewer](https://kdd2025.kdd.org/research-track-program-committee/), 2025
 
+Electronic Curriculum Vitae
+======
+* [Link](/images/CV.pdf)
 
 <!--
 Publications
