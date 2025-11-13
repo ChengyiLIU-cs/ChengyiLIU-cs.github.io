@@ -13,4 +13,3 @@ Download paper here: [arXiv](https://arxiv.org/abs/2412.15579), [TKDE'25](https:
 
 [Temporary GitHub project reference](https://github.com/Anonymous-CodeRepository/Score-based-Generative-Diffusion-Models-for-Social-Recommendations-SGSR)
 
-
