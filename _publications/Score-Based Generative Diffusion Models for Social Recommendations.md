@@ -1,6 +1,6 @@
 ---
 title: "Score-Based Generative Diffusion Models for Social Recommendations"
-collection: IEEE Transactions on Knowledge and Data Engineering (Volume: 37, Issue: 11, November 2025)
+collection: "IEEE Transactions on Knowledge and Data Engineering (Volume: 37, Issue: 11, November 2025)"
 permalink: /publication/2025-08-19-paper-title-number-2
 excerpt: 'Social Recommendation'
 date: 2025-08-19
