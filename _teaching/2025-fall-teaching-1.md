@@ -1,5 +1,5 @@
 ---
-title: "Database Systems"
+title: "DATABASE SYSTEMS"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-1
