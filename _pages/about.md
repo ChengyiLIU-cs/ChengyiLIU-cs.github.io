@@ -26,7 +26,10 @@ Research Interests
 News
 ======
 ### 2025
-08/2025: The paper (“[Score-based Generative Diffusion Models for Social Recommendations](https://arxiv.org/abs/2412.15579)”) got accepted by IEEE Transactions on Knowledge and Data Engineering.
+10/2025: One paper (“[Continuous-time Discrete-space Diffusion Modelfor Recommendation]”) gets accepted by ACM International Conference on
+Web Search and Data Mining (WSDM) 2025.
+
+08/2025: The paper (“[Score-based Generative Diffusion Models for Social Recommendations](https://arxiv.org/abs/2412.15579)”) has been accepted by IEEE Transactions on Knowledge and Data Engineering.
 
 01/2025: The new preprint (“[Graph Defense Diffusion Model]([https://arxiv.org/abs/2501.11568](https://ieeexplore.ieee.org/document/11129906))”) is online.
 
@@ -36,7 +39,7 @@ News
 
 ### 2023
 
-04/2023: The survey paper (“[Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591)”) got accepted by IJCAI 2023.
+04/2023: The survey paper (“[Generative Diffusion Models on Graphs: Methods and Applications](https://arxiv.org/abs/2302.02591)”) get accepted by IJCAI 2023.
 
 02/2023: The new preprint “Generative Diffusion Models on Graphs: Methods and Applications” is online.
 
