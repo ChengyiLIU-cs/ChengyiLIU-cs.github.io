@@ -26,8 +26,9 @@ Research Interests
 News
 ======
 ### 2025
-10/2025: One paper (“[Continuous-time Discrete-space Diffusion Modelfor Recommendation](https://arxiv.org/abs/2511.12114)”) gets accepted by ACM International Conference on
-Web Search and Data Mining (WSDM) 2025.
+11/2025: Our paper (“[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568)”) gets accepted by the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026.
+
+10/2025: One paper (“[Continuous-time Discrete-space Diffusion Model for Recommendation](https://arxiv.org/abs/2511.12114)”) gets accepted by the ACM International Conference on Web Search and Data Mining (WSDM) 2025.
 
 08/2025: The paper (“[Score-based Generative Diffusion Models for Social Recommendations](https://ieeexplore.ieee.org/abstract/document/11129906)”) has been accepted by IEEE Transactions on Knowledge and Data Engineering.
 
