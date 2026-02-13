@@ -1,18 +1,19 @@
 ---
 title: "Continuous-time Discrete-space Diffusion Model for Recommendation"
 collection: The 19th International Conference on Web Search and Data Mining (WSDM)
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'IJCAI survey'
-date: 2023-04-01
-venue: 'IJCAI'
+permalink: /publication/2025-10-24-paper-title-number-3
+excerpt: 'Generative Recommendation'
+date: 2025-10-24
+venue: 'WSDM'
 paperurl: ''
-citation: 'Fan, W., Liu, C., Liu, Y., Li, J., Li, H., Liu, H., Tang, J. and Li, Q., 2023. Generative diffusion models on graphs: Methods and applications. arXiv preprint arXiv:2302.02591.'
+citation: 'Liu, C., Chen, X., Wang, S., Fan, W. and Li, Q., 2025. Continuous-time Discrete-space Diffusion Model for Recommendation. In Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining.'
 ---
 
-Download paper here: [arXiv](https://arxiv.org/abs/2302.02591), [IJCAI-23](https://www.ijcai.org/proceedings/2023/0751.pdf)
+Download paper here: [arXiv](https://arxiv.org/abs/2511.12114), [WSDM'26]()
 
-[GitHub project reference](https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs)
+[Temporary GitHub project reference](https://github.com/ChengyiLIU-cs/CDRec)
 
-[Chinese Introduction 中文介绍](https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg)
+[Poster](/images/wsdm_poster.pdf)
 
-[Poster](/images/poster_portrait_A0.pdf)
+
+
