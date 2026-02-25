@@ -22,7 +22,7 @@ citation: |
     keywords = {recommender system, diffusion models, continuous-time discrete diffusion models.},
     location = {USA},
     series = {WSDM '26}
-}
+  }
 ---
 
 Download paper here: [arXiv](https://arxiv.org/abs/2511.12114), [WSDM'26](https://dl.acm.org/doi/10.1145/3773966.3777987)
