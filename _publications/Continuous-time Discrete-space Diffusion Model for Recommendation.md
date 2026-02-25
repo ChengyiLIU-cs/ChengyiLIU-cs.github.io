@@ -7,6 +7,7 @@ date: 2025-10-24
 venue: 'WSDM'
 paperurl: ''
 citation: |
+```bibtex
   @inproceedings{liu2025continuous,
     author = {Liu, Chengyi and Chen, Xiao and Wang, Shijie and Fan, Wenqi and Li, Qing},
     title = {Continuous-time Discrete-space Diffusion Model for Recommendation},
@@ -23,6 +24,7 @@ citation: |
     location = {USA},
     series = {WSDM '26}
   }
+```
 ---
 
 Download paper here: [arXiv](https://arxiv.org/abs/2511.12114), [WSDM'26](https://dl.acm.org/doi/10.1145/3773966.3777987)
