@@ -25,6 +25,9 @@ Research Interests
 
 News
 ======
+### 2026
+04/2026 Our paper ("Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation") gets accepted by the 49th ACM SIGIR Conference 2026.
+
 ### 2025
 11/2025: Our paper (“[Graph Defense Diffusion Model](https://arxiv.org/abs/2501.11568)”) gets accepted by the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026.
 
