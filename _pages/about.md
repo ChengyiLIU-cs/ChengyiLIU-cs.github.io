@@ -26,6 +26,8 @@ Research Interests
 News
 ======
 ### 2026
+05/2026 Our paper ("Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation") gets accepted by the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026.
+
 04/2026 Our paper ("Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation") gets accepted by the 49th ACM SIGIR Conference 2026.
 
 ### 2025
