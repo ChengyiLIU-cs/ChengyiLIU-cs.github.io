@@ -26,6 +26,8 @@ Research Interests
 News
 ======
 ### 2026
+07/2026 The new preprint (“[Diffusion Language Model for Recommendation](https://arxiv.org/abs/2607.21519)”) is online.
+
 05/2026 Our paper ("[Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation](https://arxiv.org/pdf/2605.28175)") gets accepted by the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026.
 
 04/2026 Our paper ("[Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3805712.3809536)") gets accepted by the 49th ACM SIGIR Conference 2026.
