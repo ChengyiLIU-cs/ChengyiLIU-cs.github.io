@@ -19,7 +19,7 @@ Research Interests
 ======
 * #### Graph Neural Networks (GNNs)
 
-* #### Diffusion model
+* #### Diffusion Models, Diffusion Language Models (DLMs)
 
 * #### Recommender Systems
 
