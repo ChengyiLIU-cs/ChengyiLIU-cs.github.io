@@ -28,7 +28,7 @@ Awards
 
 Electronic Curriculum Vitae
 ======
-* [Link](/images/CV.pdf)
+* [Link](/images/Chengyi_LIU_CV.pdf)
 
 <!--
 Publications
